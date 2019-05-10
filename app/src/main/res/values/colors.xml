@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lightblue_background">#e3ecf9</color>
+    <color name="lightred_background">#f7c8c8</color>
+
+    <color name="Yello_background">#f5f9b1</color>
+</resources>

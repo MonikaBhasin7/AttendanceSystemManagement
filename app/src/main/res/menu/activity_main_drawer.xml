@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_student_data"
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Add Student Data" />
+        <item
+            android:id="@+id/show_student_detail"
+            android:icon="@drawable/showstudentdetail"
+            android:title="Show Student Detail" />
+        <item
+            android:id="@+id/show_student_attendance"
+            android:icon="@drawable/showstudentattendance"
+            android:title="Show Student Attendance" />
+        <item
+            android:id="@+id/add_subject"
+            android:icon="@drawable/addsubject"
+            android:title="Add Subject" />
+        <item
+            android:id="@+id/take_attendance"
+            android:icon="@drawable/addattendance"
+            android:title="Take Attendance" />
+    </group>
+
+</menu>
